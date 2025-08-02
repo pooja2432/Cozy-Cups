@@ -1,0 +1,198 @@
+.navbar {
+  background-color: #b66f2d;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.menu-icon {
+  display: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Default: show horizontal menu */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+/* Mobile view: show icon only */
+@media (max-width: 768px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-links {
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background-color: #b66f2d;
+    width: 200px;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+    display: none;
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+}
+.navbar {
+  background-color: #b66f2d;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+/* Hide navbar on desktop (1024px and above) */
+@media (min-width: 1024px) {
+  .navbar {
+    display: none;
+  }
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.menu-icon {
+  display: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+/* Show hamburger menu and nav links only in mobile view */
+@media (max-width: 1024px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-links {
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background-color: #b66f2d;
+    width: 200px;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+    display: none;
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+}
+.navbar {
+  background-color: #b66f2d;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+/* Hide navbar on desktop (1024px and above) */
+@media (min-width: 1024px) {
+  .navbar {
+    display: none;
+  }
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.menu-icon {
+  display: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+/* Show hamburger menu and nav links only in mobile view */
+@media (max-width: 1024px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-links {
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background-color: #b66f2d;
+    width: 200px;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+    display: none;
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+}
