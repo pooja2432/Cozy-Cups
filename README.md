@@ -43,7 +43,7 @@ You can check the live website here:
   
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Pooja Kumari
 Computer Science Graduate(B.Tech)
