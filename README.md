@@ -1,12 +1,44 @@
-# React + Vite
+# ☕ Cozy Cups - Online Coffee Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **React-based Coffee Shop website** showcasing a variety of coffee products with smooth UI/UX and interactive features. The project is designed for both **desktop and mobile devices**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+You can check the live website here:  
+[**Cozy Cups Live Site**](https://helpful-cajeta-824046.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+### 💻 Desktop View
+![Desktop Home](media/screenshots/desktop.png)
+
+### 📱 Mobile View
+![Mobile Home](media/screenshots/mobile.png)
+
+### 📆 6-Day Menu / Featured Items (Mobile)
+![Mobile Forecast](media/screenshots/mobile-forecast.png)
+
+---
+
+## ⚡ Features
+
+- ✅ Fully responsive design (Desktop & Mobile)
+- ✅ Smooth menu carousel using **Swiper.js**
+- ✅ Dynamic **daily coffee specials** showcase
+- ✅ Interactive buttons and hover animations
+- ✅ Mobile-first input search and interactive navbar
+- ✅ Deployment ready (Netlify)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** CSS3 + Tailwind (optional)  
+- **Animation / Carousel:** Swiper.js, GSAP  
+- **Deployment:** Netlify
+- 
+---
