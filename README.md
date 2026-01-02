@@ -19,7 +19,7 @@ You can check the live website here:
 ![Contact Page](screenshots/contact.png)
 
 ### 📱 Mobile View
-![Mobile View](screenshots/.png)
+![Mobile View](screenshots/mobile.png)
 
 ---
 
