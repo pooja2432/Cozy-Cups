@@ -39,6 +39,5 @@ You can check the live website here:
 - **Frontend:** React.js  
 - **Styling:** CSS3 + Tailwind (optional)  
 - **Animation / Carousel:** Swiper.js, GSAP  
-- **Deployment:** Netlify
-- 
+- **Deployment:** Netlify 
 ---
