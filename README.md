@@ -12,14 +12,14 @@ You can check the live website here:
 
 ## 📸 Screenshots
 
-### 💻 Desktop View
-![Desktop Home](media/screenshots/desktop.png)
+### 💻 Home Page
+![Desktop Home](screenshots/home.png)
+
+### 📞 Contact Page
+![Contact Page](screenshots/contact.png)
 
 ### 📱 Mobile View
-![Mobile Home](media/screenshots/mobile.png)
-
-### 📆 6-Day Menu / Featured Items (Mobile)
-![Mobile Forecast](media/screenshots/mobile-forecast.png)
+![Mobile View](screenshots/mobile.png)
 
 ---
 
